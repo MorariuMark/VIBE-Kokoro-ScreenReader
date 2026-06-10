@@ -1,0 +1,17 @@
+onnxruntime-gpu>=1.16.0
+numpy>=1.22.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+pyperclip>=1.8.2
+pynput>=1.7.6
+pystray>=0.19.5
+customtkinter>=5.2.0
+pillow>=10.0.0
+kokoro-onnx>=0.3.0
+espeakng-loader>=0.2.4
+nvidia-cuda-runtime-cu12>=12.0.0
+nvidia-cublas-cu12>=12.0.0
+nvidia-cudnn-cu12>=9.0.0
+nvidia-cufft-cu12>=12.0.0
+nvidia-curand-cu12>=12.0.0
+nvidia-nvjitlink-cu12>=12.0.0
